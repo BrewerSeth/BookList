@@ -13,3 +13,6 @@ Dune - Frank Herbert
 ## Want to Read
 
 Work War Z - Max Brooks
+The Lies of Locke Lamora
+
+

@@ -16,4 +16,8 @@ Dune - Frank Herbert
 
 - Work War Z - Max Brooks 
 
+## Book Tracking
+
+I use the Bookly App to track my reading times.
+
 
